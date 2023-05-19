@@ -1,7 +1,7 @@
 let array[];
 let i = 0;
-let superato30=false;
-while ( superato30 === false) {
+let superato50=false;
+while ( superato50 === false) {
     const n = parseInt(prompt("Type a number"));
     array.push(n);
     }const somma += array[i];{
