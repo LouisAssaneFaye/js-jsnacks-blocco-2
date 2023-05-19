@@ -6,7 +6,7 @@ while ( superato50 === false) {
     array.push(n);
     }const somma += array[i];{
     if( somma > 50 ){
-        superato30=true;
+        superato50=true;
     }
     i++;
 }
